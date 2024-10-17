@@ -12,9 +12,6 @@ Here are some of the technologies and tools I work with:
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap"/>
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="cplusplus"/>
-    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="css3"/>
     </a>
