@@ -51,10 +51,21 @@ Here are some of the technologies and tools I work with:
 </p>
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditstywn&show_icons=true&locale=en" alt="aditstywn" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditstywn&" alt="aditstywn" />
-</div>
+<table border="0">
+  <tr>
+    <td> 
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=aditstywn&show_icons=true&locale=en" alt="aditstywn" />
+      </p>
+    </td>
+    <td> 
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditstywn&" alt="aditstywn" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
