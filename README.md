@@ -45,7 +45,14 @@ Here are some of the technologies and tools I work with:
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html"/>
     </a>
+    <a href="https://laravel.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="laravel"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="firebase"/>
+    </a>
 </p>
+
 
 
 <table border="0">
